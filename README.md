@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 🌀 I'm Faba Kouyate!</h1>
 
 ## ⚡️ About Me
-I’m a first year computer science student at Santa Monica College and my goal is to get hands on experience. My interests span across Web Development, Backend Architecture, Robotics, and Machine Learning. 
+I’m a first year computer science student at Santa Monica College and my goal is to get hands on experience. My interests span across Web Development, Data Science, Robotics, and Machine Learning. 
 
 ## 📡 Tech Stack
 
