@@ -37,6 +37,8 @@ I’m a first year computer science student at Santa Monica College and my goal 
 
 ## Let’s Connect 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ----- https://www.linkedin.com/in/faba-kouyate-714806322
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faba-kouyate-714806322
+)
+
 
 📧: faba.y.kouyate@gmail.com
