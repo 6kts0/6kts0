@@ -3,7 +3,7 @@
 ## ⚡️ About Me
 CS student passionate about building cool full stack systems. My interests range from Web Development and Machine Learning, to Embedded Systems and hardware. Trying to gain the skills to one day play a role in a good company.
 
-🔭 Currently learning C
+🔭 **Currently learning C**
 
 ## 📡 Tech Stack
 
