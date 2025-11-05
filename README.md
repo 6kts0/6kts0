@@ -34,7 +34,6 @@ I’m a first year computer science student at Santa Monica College and my goal 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 
 ## Let’s Connect 
 
