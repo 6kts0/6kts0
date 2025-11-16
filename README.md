@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 🌀 I'm Faba Kouyate!</h1>
+## <h1 align="center">Hi, I'm Faba!🌀</h1>
 
 ## ⚡️ About Me
 CS student passionate about building full stack systems. My interests range from Web Development and Machine Learning, to Embedded Systems and hardware. Trying to gain the skills to one day contribute to cool technology.
