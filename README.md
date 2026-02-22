@@ -5,9 +5,7 @@ CS student passionate about building full stack systems. My interests range from
 
 **Currently learning:**
 
-C/C++
-
-HTML/CSS
+C
 
 ## Tech Stack
 
