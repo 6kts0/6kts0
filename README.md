@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi, I'm Faba!🌀</h1>
 
 ## About Me
-CS student passionate about building full stack systems. My interests range from Machine Learning and Automation, to Embedded Systems and Hardware. Trying to gain the skills to one day contribute to cool technology.
+Passionate about low level systems. My main interests and proficiencies are dynamic system design and embedded systems. Trying to gain skills to one day contribute to cool technology.
 
 
 ## Let’s Connect 
