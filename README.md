@@ -1,7 +1,7 @@
 ## <h1 align="center">Faba!</h1>
 
 ## About Me
-Passionate about low level systems. My main interests and proficiencies are Python/Html/Css fullstack system design and . Trying to gain skills to one day contribute to cool technology.
+Passionate about low level systems. My main interests and proficiencies are Python/Html/Css fullstack system design. Trying to gain skills to one day contribute to cool technology.
 
 
 ## Let’s Connect 
